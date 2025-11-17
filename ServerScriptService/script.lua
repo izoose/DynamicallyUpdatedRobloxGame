@@ -1,6 +1,6 @@
 -- Remote GitHub script: toggle behavior via local flag
 
-local remove = true  -- CHANGE THIS TO true IN GITHUB WHEN YOU WANT TO DELETE
+local remove = false  -- CHANGE THIS TO true IN GITHUB WHEN YOU WANT TO DELETE
 
 local FOLDER_NAME = "GeneratedParts"
 
