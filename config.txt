@@ -1,1 +1,1 @@
-add: "script.lua" "Script" game.ServerScriptService
+add: "script" "Script" game.ServerScriptService
